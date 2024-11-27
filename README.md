@@ -2,11 +2,13 @@
 
 # The-World-Oasis
 
-# This Project is the internal application used inside the hotel to check all about cabins,guests,bookings
+### This Project is the internal application used inside the hotel to check all about cabins,guests,bookings
 
-# Technologies for control remote data that I used, are: supabase, React Query
+### Technologies for control remote data that I used, are:
 
-# Other library used in this Project:
+Supabase, React Query
+
+### Other library used in this Project:
 
 React router
 Styled components
